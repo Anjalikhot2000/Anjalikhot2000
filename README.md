@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjali Khot</h1>
-<h3 align="center">"Code is my language, and I'm fluent."</h3>
+<h3 align="center">"Code is my language, and I'm fluent"</h3>
 <img align="right" alt="Coding" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3N5ZnZ0aTNkOGM3aXFsdjQ3ODgyOWdjZThnZGxhZjNodGx0NDQ4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif">
 
 - 🌱 I’m currently learning **Django**
